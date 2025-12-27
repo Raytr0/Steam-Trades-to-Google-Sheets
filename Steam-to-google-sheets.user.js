@@ -1,9 +1,14 @@
 // ==UserScript==
 // @name         Steam Trade to Google Sheets
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Raytr0
+// @homepageURL  https://github.com/Raytr0/Steam-Trades-to-Google-Sheets
+// @supportURL   https://github.com/Raytr0/Steam-Trades-to-Google-Sheets/issues
+// @downloadURL  https://github.com/Raytr0/Steam-Trades-to-Google-Sheets/raw/main/steam-trade-logger.user.js
+// @updateURL    https://github.com/Raytr0/Steam-Trades-to-Google-Sheets/raw/main/steam-trade-logger.user.js
 // @version      1.0
 // @description  Syncs Steam trades to Sheets. Supports Metal decimals, History Bastard, and Profile Links.
-// @author       You
+// @author       Raytr0
+// @license      MIT
 // @match        https://steamcommunity.com/*/tradehistory*
 // @match        https://steamcommunity.com/id/*/tradehistory*
 // @match        https://steamcommunity.com/profiles/*/tradehistory*
